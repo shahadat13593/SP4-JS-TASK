@@ -1,6 +1,6 @@
 let age =  25;
 
-// loose comrarison 
+// loose comparison 
 
 console.log( age == 25);
 
