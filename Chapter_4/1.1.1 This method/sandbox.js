@@ -1,4 +1,4 @@
-
+// object literals
 let user = {
     name : 'Shahadat', 
     age: 19,
